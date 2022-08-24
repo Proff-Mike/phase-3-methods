@@ -16,8 +16,7 @@ end
 
 
 def add (a, b)
-  puts a+b
-  return 2 + 5
+  sum = 2 + 5
 end 
 
 
